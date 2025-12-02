@@ -1,9 +1,11 @@
 # VESM1_-Lokaverkefni-verkefni-6-_bordspil
 
 |---------------**Bio**---------------\
+
 **Verksmiðjun-1 lokaverkefnið borðspilið 'Battle Ship'**
 
- --------{Men Að Verki}--------
+
+|------------{Men Að Verki}-----------|
 
  ***CODER:** Magnús Bærings*
 
@@ -12,6 +14,7 @@
  ***MANAGER:** Elvar Þór Breiðfjörð*
   
 |-------------------------------------/
+
 
 ## Útskýring á leiknum **'Battleship'**
 |---------------**main**---------------\
