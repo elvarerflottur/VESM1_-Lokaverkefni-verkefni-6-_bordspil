@@ -26,4 +26,4 @@
 
 
 ## Code:
-https://raw.githubusercontent.com/elvarerflottur/VESM1_-Lokaverkefni-verkefni-6-_bordspil/refs/heads/main/Battleship%20Game.py
+https://github.com/elvarerflottur/VESM1_-Lokaverkefni-verkefni-6-_bordspil
